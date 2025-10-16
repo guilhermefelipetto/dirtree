@@ -1,4 +1,4 @@
-![logo-banner.png](logo-banner.png)
+![logo-banner.png](imagens/logo-banner.png)
 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-PyQt5-green.svg)](https://riverbankcomputing.com/software/pyqt/)
@@ -48,7 +48,7 @@ Com opções de filtragem, ordenação e uma interface que se atualiza em tempo 
 
 | Modo Claro | Modo Escuro |
 | :---: | :---: |
-| *![Screenshot do Modo Claro](modo_claro.png)* | *![Screenshot do Modo Escuro](modo_escuro.png)* |
+| *![Screenshot do Modo Claro](imagens/modo_claro.png)* | *![Screenshot do Modo Escuro](imagens/modo_escuro.png)* |
 
 ## Tecnologias Utilizadas
 
