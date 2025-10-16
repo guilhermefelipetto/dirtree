@@ -61,7 +61,7 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/guilhermefelipetto/dirtree.git
     cd dirtree
     ```
 
